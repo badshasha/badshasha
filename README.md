@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @badshasha
+- 👋 Hi, I’m @badshasha ( එල කොල්ලෙක් වෙමි .)
 - 👀 I’m interested in ... python c# javascript and php
 - 🌱 I’m currently learning ... architecture designing and computer vision 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 
+- 📫
 
 <!---
 badshasha/badshasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
