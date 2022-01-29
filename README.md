@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @badshasha ( එල කොල්ලෙක් වෙමි .)
+- 👋 Hi, I’m @badshasha 
 - 👀 I’m interested in ... python c# javascript and php
 - 🌱 I’m currently learning ... architecture designing and computer vision 
 - 
