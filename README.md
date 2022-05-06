@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @badshasha 
-- 👀 I’m interested in ... python c# javascript and php
+- 👀 I’m interested in ... python .net react and django
 - 🌱 I’m currently learning ... architecture designing and computer vision 
 - 
 - 📫
